@@ -91,10 +91,6 @@ The report recommends integrating water-resource planning into technology develo
 
 The full report contains its reference list, including the World Bank WDI data source, UNEP water-stress indicators, and literature on data-center and AI water consumption.
 
-## Project Files
-
-This README documents the accompanying **Machine Learning (ST3189) coursework report**. The uploaded material contains the report only; executable notebooks, datasets, environment requirements, and setup commands have not been provided and are therefore not specified here.
-
 ## Note on Interpretation
 
 Reported findings are associations and predictive results, not evidence that technology adoption directly causes greater freshwater withdrawal. Numerical results above are reproduced from the coursework report.
